@@ -1,2 +1,2 @@
 # Learningdatascience
-for practice only
+I made this repository for practice purpose only.
